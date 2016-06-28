@@ -1,3 +1,4 @@
+﻿test
 Add this to your Arduino IDE boards.txt file to fuse the ATMega328p used on the AAduino
 
 
